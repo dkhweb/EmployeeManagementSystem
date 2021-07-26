@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFDataAccessLibrary", "EFDataAccessLibrary\EFDataAccessLibrary.csproj", "{99C0E986-9616-401F-904F-B2D584004D06}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagementService.WebApi", "EmployeeManagementService.WebApi\EmployeeManagementService.WebApi.csproj", "{3F806E29-9BB5-4012-A6F9-AD18D91749D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C0E986-9616-401F-904F-B2D584004D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C0E986-9616-401F-904F-B2D584004D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C0E986-9616-401F-904F-B2D584004D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C0E986-9616-401F-904F-B2D584004D06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F806E29-9BB5-4012-A6F9-AD18D91749D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F806E29-9BB5-4012-A6F9-AD18D91749D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F806E29-9BB5-4012-A6F9-AD18D91749D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F806E29-9BB5-4012-A6F9-AD18D91749D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7028D511-7188-43C5-AC41-B4B925B5D867}
+	EndGlobalSection
+EndGlobal
